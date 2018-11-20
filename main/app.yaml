@@ -1,0 +1,7 @@
+
+runtime: go111
+
+handlers:
+
+- url: /test/.*
+  script: auto
